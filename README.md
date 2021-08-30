@@ -15,3 +15,5 @@ localhost:3000/doc
 * Canvas 2D rendering
 * WebGL rendering
 * Time series rendering of meteor showers
+* Vector tiles for on fly load and rendering using maptiler and mapbox
+* Raster source and image layer - rendering elevation of sea level
