@@ -1,5 +1,5 @@
 {
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=lirfd6Fegsjkvs0lshxe",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=2cABekqwzvhK7tiD60qw",
   "id": "bright",
   "layers": [
     {
@@ -5016,7 +5016,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=lirfd6Fegsjkvs0lshxe"
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=2cABekqwzvhK7tiD60qw"
     }
   },
   "sprite": "https://api.maptiler.com/maps/bright/sprite",
