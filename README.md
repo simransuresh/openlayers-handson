@@ -1,6 +1,8 @@
 # openlayers
 openlayer hands on
 
+!!Please dont misuse my Mapbox, Maptiler keys!!
+
 npm install\
 npm start
 
